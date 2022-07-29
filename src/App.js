@@ -9,11 +9,11 @@ function App() {
                 <img src={alf} className="App-logo" alt="logo" />
                 <a
                     className="App-link"
-                    href="mailto:alfonsoridao@gmail.com"
+                    href="mailto:alfonso@ridao.ar"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    alfonsoridao@gmail.com
+                    alfonso@ridao.ar
                 </a>
             </header>
         </div>
