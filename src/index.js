@@ -6,11 +6,11 @@ import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
-window.location.href = "http://www.ridao.ar";
+window.location.href = "http://term.ridao.ar";
 
 root.render(
   <React.StrictMode>
-    <App />
+    {/*<App />*/}
   </React.StrictMode>
 );
 
